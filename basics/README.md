@@ -3,3 +3,4 @@ Displays the contents list of the current directory
 Changes the working directory to the user's home directory
 Displays the cotents of the current directory in long format
 Display the current directory contents in long format
+Creates a directory named 'my_first_directory' inside the 'tmp' directory
