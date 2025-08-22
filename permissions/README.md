@@ -8,3 +8,4 @@
 - **7-everybody**: adds execute permission to owner, group, and others for the file `hello` (no commas used).
 - **8-James_Bond**: sets `hello` to mode `007` (owner: none, group: none, others: rwx).
 - **9-John_Doe**: sets `hello` to mode `753` (`-rwxr-x-wx`).
+- **10-mirror_permissions**: sets the mode of `hello` to match `olleh` using `chmod --reference
