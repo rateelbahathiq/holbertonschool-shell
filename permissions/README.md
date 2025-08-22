@@ -7,3 +7,4 @@
 - **6-multiple_permissions**: adds execute permission for owner and group, and read permission for others on the file `hello`.
 - **7-everybody**: adds execute permission to owner, group, and others for the file `hello` (no commas used).
 - **8-James_Bond**: sets `hello` to mode `007` (owner: none, group: none, others: rwx).
+- **9-John_Doe**: sets `hello` to mode `753` (`-rwxr-x-wx`).
