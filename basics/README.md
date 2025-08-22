@@ -8,3 +8,4 @@ Moves the file 'betty' from '/tmp/' to '/tmp/my_first_directory/'
 Deletes the file 'betty' from '/tmp/my_first_directory/'
 Deletes the directory 'my_first_directory'inside '/tmp/'
 Change working directory to the previous one
+lists all files (including hidden ones) in the current directory,the parent directory,and the '/boot' directory,in long format
