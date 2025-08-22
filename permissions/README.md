@@ -10,3 +10,4 @@
 - **9-John_Doe**: sets `hello` to mode `753` (`-rwxr-x-wx`).
 - **10-mirror_permissions**: sets the mode of `hello` to match `olleh` using `chmod --reference
 ls -ld dir*
+- **12-directory_permissions**: creates a directory `my_dir` with mode 751 (rwx for owner, r-x for group, --x for others).
