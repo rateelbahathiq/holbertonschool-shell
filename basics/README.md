@@ -1,1 +1,16 @@
-Moves all files starting with an uppercase letter into the `/tmp/u` directory.
+**0-current_working_directory**: Prints the absolute path name of the current working directory.
+- **1-listit**: Displays the contents list of the current directory.
+- **2-bring_me_home**: Changes the working directory to the user’s home directory.
+- **3-listfiles**: Displays current directory contents in long format.
+- **4-listmorefiles**: Displays current directory contents, including hidden files, in long format.
+- **5-listfilesdigitonly**: Displays current directory contents in long format with numeric user/group IDs, including hidden files.
+- **6-firstdirectory**: Creates a directory named `my_first_directory` in `/tmp/`.
+- **7-movethatfile**: Moves the file `betty` into `/tmp/my_first_directory/`.
+- **8-firstdelete**: Deletes the file `betty` from `/tmp/my_first_directory/`.
+- **9-firstdirdeletion**: Deletes the directory `/tmp/my_first_directory`.
+- **10-back**: Changes the working directory to the previous one.
+- **11-lists**: Lists all files in the current, parent, and `/boot` directories in long format (including hidden files).
+- **12-file_type**: Prints the type of the file `/tmp/iamafile`.
+- **13-symbolic_link**: Creates a symbolic link named `__ls__` pointing to `/bin/ls`.
+- **14-copy_html**: Copies `.html` files to the parent directory if they are new or missing.
+- **15-lets_move**: Moves all files starting with an uppercase letter into the `/tmp/u` directory.
