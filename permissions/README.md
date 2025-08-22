@@ -1,0 +1,1 @@
+- **0-iam_betty**: switches the current user to `betty` (command is exactly 8 chars).
