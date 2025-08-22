@@ -14,3 +14,4 @@ ls -ld dir*
 - **13-change_group**: changes the group owner of the file `hello` to `school`.
 vi ~/holbertonschool-shell/permissions/README.md
 - **15-symbolic_link_permissions**: changes owner and group of the symlink `_hello` to `vincent:staff` (uses `chown -h` to target the link itself).
+- **16-if_only**: changes owner of `hello` to `vincent` only if current owner is `guillaume` (`chown --from=guillaume vincent hello`).
