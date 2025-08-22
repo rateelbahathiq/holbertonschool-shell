@@ -3,4 +3,5 @@
 - **2-groups**: prints all the groups the current user is part of.
 - **3-new_owner**: changes the owner of the file `hello` to user `betty`.
 - **4-empty**: creates an empty file named `hello`.
-- **5-execute**: adds execute permission to the owner of the file `hello`.
+- **5-execute**: adds execute permission to the owner of the file `hello
+- **6-multiple_permissions**: adds execute permission for owner and group, and read permission for others on the file `hello`.
