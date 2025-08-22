@@ -11,3 +11,4 @@ Change working directory to the previous one
 lists all files (including hidden ones) in the current directory,the parent directory,and the '/boot' directory,in long format
 Prints the type of the file 'iamafile'located in '/tmp' using the 'file'command
 Creates a symbolic link named'__ls__'in the current directory, pointing to '/bin/ls'
+Copies all '.html' files from the current directory to the parent directory, but only if they are new or do not exist in the parent
