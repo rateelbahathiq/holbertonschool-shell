@@ -10,3 +10,4 @@ Deletes the directory 'my_first_directory'inside '/tmp/'
 Change working directory to the previous one
 lists all files (including hidden ones) in the current directory,the parent directory,and the '/boot' directory,in long format
 Prints the type of the file 'iamafile'located in '/tmp' using the 'file'command
+Creates a symbolic link named'__ls__'in the current directory, pointing to '/bin/ls'
