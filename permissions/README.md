@@ -13,3 +13,4 @@ ls -ld dir*
 - **12-directory_permissions**: creates a directory `my_dir` with mode 751 (rwx for owner, r-x for group, --x for others).
 - **13-change_group**: changes the group owner of the file `hello` to `school`.
 vi ~/holbertonschool-shell/permissions/README.md
+- **15-symbolic_link_permissions**: changes owner and group of the symlink `_hello` to `vincent:staff` (uses `chown -h` to target the link itself).
