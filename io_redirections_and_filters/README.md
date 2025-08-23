@@ -9,3 +9,4 @@
 - **8-cwd_state**: saves `ls -la` of the current directory to `ls_cwd_content` (overwrites).
 - **9-duplicate_last_line**: duplicates the last line of `iacta` by appending it again.
 - **10-no_more_js**: deletes all `.js` files in current directory and subfolders..
+- **11-directories**: counts the number of directories and subdirectories (excluding `.`).
