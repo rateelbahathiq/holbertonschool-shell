@@ -15,3 +15,4 @@ I/O redirections: task 14 - find lines with root in /etc/passwd.
 - **13-unique**: prints only the words that appear exactly once from input (sorted).
 - **15-countthatword**: prints how many lines in `/etc/passwd` contain `bin` (`grep -c "bin"`).
 - **16-whatsnext**: shows lines containing "root" and the 3 lines after them from `/etc/passwd`.
+- **18-letteronly**: shows all lines in `/etc/ssh/sshd_config` that begin with a letter (uppercase or lowercase).
