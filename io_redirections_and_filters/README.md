@@ -17,3 +17,4 @@ I/O redirections: task 14 - find lines with root in /etc/passwd.
 - **16-whatsnext**: shows lines containing "root" and the 3 lines after them from `/etc/passwd`.
 - **17-hidethisword**: Displays all lines in `/etc/passwd` that do not contain the word "bin".
 - **18-letteronly**: shows all lines in `/etc/ssh/sshd_config` that begin with a letter (uppercase or lowercase).
+- **19-AZ**: replaces all `A` with `Z` and `c` with `e` from the input.
