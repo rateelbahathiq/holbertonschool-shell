@@ -9,4 +9,5 @@
 - **8-true_knowledge** → Adds 128 to the value of the environment variable TRUEKNOWLEDGE and prints the result.
 - **9-divide_and_rule** → Prints the result of `$POWER / $DIVIDE` using shell arithmetic.
 - **10-love_exponent_breath** → Prints `BREATH` raised to the power of `LOVE` using bash arithmetic (`**`).
-- **11-binary_to_decimal** → Prints the decimal value of the binary number in `$BINARY` using `echo $((2#$BINARY))`..
+- **11-binary_to_decimal** → Prints the decimal value of the binary number in `$BINARY` using `echo $((2#$BINARY))`.
+- **12-combinations** → Prints all two-letter lowercase combinations from a–z in alphabetical order, excluding `oo`..
