@@ -20,3 +20,4 @@ I/O redirections: task 14 - find lines with root in /etc/passwd.
 - **19-AZ**: replaces all `A` with `Z` and `c` with `e` from the input.
 - **20-hiago**: removes all `c` and `C` characters from the input.
 - **21-reverse**: reverses the input text using the `rev` command.
+- **22-users_and_homes**: displays all users and their home directories from `/etc/passwd`, sorted by username.
