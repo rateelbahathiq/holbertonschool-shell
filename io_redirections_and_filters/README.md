@@ -6,4 +6,5 @@
 - **5-firstlines**: displays the first 10 lines of `/etc/passwd`.
 - **6-third_line**: prints the 3rd line of the file `iacta`.
 - **7-file**: creates a file named `*\\"Best School"\'\\*$?*****:)` and writes `Best School` into it
-- **8-cwd_state**: saves `ls -la` of the current directory to `ls_cwd_content` (overwrites)..
+- **8-cwd_state**: saves `ls -la` of the current directory to `ls_cwd_content` (overwrites).
+- **9-duplicate_last_line**: duplicates the last line of `iacta` by appending it again..
