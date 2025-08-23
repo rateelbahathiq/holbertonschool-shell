@@ -6,4 +6,5 @@
 - **5-local_variables** → Lists all local variables, environment variables, and functions (`set`).
 - **6-create_local_variable** → Creates a local variable `BEST` with value `School`.
 - **7-create_global_variable** → Creates a global variable `BEST` with value `School`.
-- **8-true_knowledge** → Adds 128 to the value of the environment variable TRUEKNOWLEDGE and prints the result..
+- **8-true_knowledge** → Adds 128 to the value of the environment variable TRUEKNOWLEDGE and prints the result.
+- **9-divide_and_rule** → Prints the result of `$POWER / $DIVIDE` using shell arithmetic..
