@@ -12,3 +12,4 @@
 - **11-directories**: counts the number of directories and subdirectories (excluding `.`).
 **12-newest_files** → Displays the 10 newest files in the current directory, one per line, sorted from newest to oldest
 I/O redirections: task 14 - find lines with root in /etc/passwd.
+- **15-countthatword**: prints how many lines in `/etc/passwd` contain `bin` (`grep -c "bin"`).
