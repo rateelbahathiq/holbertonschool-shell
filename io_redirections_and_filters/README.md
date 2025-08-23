@@ -19,3 +19,4 @@ I/O redirections: task 14 - find lines with root in /etc/passwd.
 - **18-letteronly**: shows all lines in `/etc/ssh/sshd_config` that begin with a letter (uppercase or lowercase).
 - **19-AZ**: replaces all `A` with `Z` and `c` with `e` from the input.
 - **20-hiago**: removes all `c` and `C` characters from the input.
+- **21-reverse**: reverses the input text using the `rev` command.
