@@ -11,4 +11,5 @@
 - **10-love_exponent_breath** → Prints `BREATH` raised to the power of `LOVE` using bash arithmetic (`**`).
 - **11-binary_to_decimal** → Prints the decimal value of the binary number in `$BINARY` using `echo $((2#$BINARY))`.
 - **12-combinations** → Prints all two-letter lowercase combinations from a–z in alphabetical order, excluding `oo`
-- **13-print_float** → Prints the value of the environment variable NUM with two decimal places...
+- **13-print_float** → Prints the value of the environment variable NUM with two decimal places..
+- **14-decimal_to_hexadecimal** → Converts the environment variable DECIMAL from base 10 to base 16 and prints it..
